@@ -980,21 +980,9 @@ git push origin feature/improve-model-explainability
 
 ---
 
-## License
-
-This project is available under the MIT License.
-
-Add a `LICENSE` file to the repository if you choose to publish the project under this license.
-
----
-
 ## Author
 
-**Your Name**
-
-- GitHub: `https://github.com/your-username`
-- LinkedIn: `https://www.linkedin.com/in/your-profile`
-- Email: `your-email@example.com`
+**Abhirup Kumar Das**
 
 ---
 
